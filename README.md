@@ -13,3 +13,11 @@ mysql-client | 用于数据库初始化脚本测试
 xmlstarlet | 用户HAP框架配置文件修改、POM文件修改
 yq | 用于yaml文件解析
 jq | 用于json文件解析
+zip | 打包文件夹 
+python | 执行Python脚本 
+gcc | 编译 Redis 
+make | 编译 Redis 
+libc-dev | 编译 Redis 
+jemalloc | 编译 Redis 
+linux-headers | 编译 Redis 
+
